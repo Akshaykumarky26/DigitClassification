@@ -6,3 +6,5 @@ python plot_digits_classification.py
 conda create -n digits python=3.13
 pip install -r requirements.txt
 conda activate digits
+
+Updated Readme for branch 1
